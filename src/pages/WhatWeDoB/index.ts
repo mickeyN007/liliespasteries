@@ -1,0 +1,1 @@
+export { default as WhatWeDoB } from './WhatWeDoB'
