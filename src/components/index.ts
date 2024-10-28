@@ -1,4 +1,5 @@
 export * from "./Footer"
+export * from "./Modal"
 export * from "./HomeHero"
 export * from "./Dropdown"
 export * from "./NotFound"
